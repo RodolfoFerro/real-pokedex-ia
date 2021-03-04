@@ -8,7 +8,7 @@
 
 ## Descripción
 
-#### _"Tu Pokedéx en La Vida Real: Programa tu clasificador de animales con redes neuronales artificiales"_
+#### _"Tu Pokédex en La Vida Real: Programa tu clasificador de animales con redes neuronales artificiales"_
 
 La inteligencia artificial (IA) se ha utilizado y continúa evolucionando para resolver muchos problemas, explorar diferentes dominios de la ciencia y desarrollar aplicaciones para el día a día. Seguro habrás notado que tu red social es capaz de encontrar tu rostro en fotografías e identificar a tus amigas y amigos. ¿Te has preguntado cómo funcionan estos algoritmos? En este taller aprenderemos el funcionamiento básico detrás y cómo podemos aplicarlo a un dominio específico: crear un clasificador de especies que puedes adaptar para tu propio conjunto de datos.
 
