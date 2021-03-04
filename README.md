@@ -16,16 +16,20 @@ La inteligencia artificial (IA) se ha utilizado y continúa evolucionando para r
 ## Contenido del taller
 
 1. Contexto general sobre la IA
-2. Introducción al aprendizaje de máquina
-3. Conceptos básicos: Conjunto de entrenamiento, conjunto de prueba
-4. Redes neuronales artificiales:
+    - Introducción al aprendizaje de máquina
+    - Conceptos básicos: Conjunto de entrenamiento, conjunto de prueba
+2. Redes neuronales artificiales:
     - Perceptrón
     - Perceptrón multicapa y redes profundas
     - Redes neuronales convolucionales
-5. Clasificador de animales
+3. Clasificador de animales
 
 
 Puedes encontrar los slides en vivo [**AQUÍ**](https://docs.google.com/presentation/d/e/2PACX-1vSq4pQd0YRSyNcfn86rdhZEAHZTXB93C9toqVj2gwxvZcUOZUy0mRmSnmv-3fTwFYXOvBXMLtfVQeWI/pub?start=false&loop=false&delayms=3000).
+
+Puedes abrir el cuaderno de trabajo directamente a través del siguietne botón: 
+
+<a href="https://colab.research.google.com/github/RodolfoFerro/real-pokedex-ia/blob/main/notebooks/Pok%C3%A9dex%20en%20la%20vida%20real%20con%20IA.ipynb" target="_blank\"><img src="https://colab.research.google.com/assets/colab-badge.svg" height="20px" alt="Open In Colab"></a>
 
 > Es importante mencionar que el curso hará uso de un ambiente en la nube para el desarrollo del material; sin embargo, podrás ejecutar el código de manera local si cuentas con los requerimeintos necesarios.
 
